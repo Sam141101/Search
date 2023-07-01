@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      href="https://yt3.ggpht.com/WWMLIGXRPdF05uTNbdD0gvYy-AJpigNIwAQOp_AInlsNUD79WZKaSp4__IDCH6iy6X9KUfyg=s900-c-k-c0x00ffffff-no-rj"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/grid.css" />
+    <link rel="stylesheet" href="./assets/css/responsive.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <title>Bài test thiết kế Search</title>
+  </head>
+
+  <body>
+    <div class="grid over">
+      <div class="row">
+        <div class="col l-12 m-12 c-12">
+          <div class="header">
+            <h1 class="block-search">
+              <i class="fa-solid fa-magnifying-glass"></i>
+            </h1>
+            <div class="language-frame">
+              <select class="select-block" id="languageSelect">
+                <option value="vi">Tiếng Việt</option>
+                <option value="en">English</option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- <div class=""> -->
+      <div class="search-container">
+        <div class="row">
+          <div class="col l-4 m-12 c-12">
+            <input
+              type="text"
+              id="searchInput"
+              class="searchs-input"
+              placeholder="Tìm kiếm views..."
+            />
+          </div>
+
+          <div class="col l-2 m-4 c-12">
+            <select class="select-block" id="groupSelect">
+              <option value="1">Lầu 1</option>
+              <option value="2">Lầu 2</option>
+              <option value="3">Lầu 3</option>
+              <option value="4">Lầu 4</option>
+              <option value="5">Lầu 5</option>
+            </select>
+          </div>
+
+          <div class="col l-2 m-4 c-12">
+            <select id="categorySelect" class="select-block">
+              <option value="">Không phân loại</option>
+              <option value="co-noi-that">Có nội thất</option>
+              <option value="khong-noi-that">Không nội thất</option>
+              <option value="trong-nha">Trong nhà</option>
+              <option value="ngoai-troi">Ngoài trời</option>
+            </select>
+          </div>
+
+          <div class="col l-2 m-4 c-12">
+            <select class="select-block" id="timeSelect">
+              <option value="">Mốc thời gian</option>
+              <option value="before">Trước 12 giờ</option>
+              <option value="after">Sau 12 giờ</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="resultsContainer1 grid">
+      <div id="resultsContainer" class="row"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

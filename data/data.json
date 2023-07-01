@@ -1,0 +1,338 @@
+
+
+{
+    "groups": [
+        {
+            "id": 1,
+            "name_vi": "Lầu 1",
+            "name_en": "Floor 1",
+            "icon": "link_icon_lau1"
+          },
+          {
+            "id": 2,
+            "name_vi": "Lầu 2",
+            "name_en": "Floor 2",
+            "icon": "link_icon_lau2"
+          },
+          {
+            "id": 3,
+            "name_vi": "Lầu 3",
+            "name_en": "Floor 3",
+            "icon": "link_icon_lau3"
+          },
+          {
+            "id": 4,
+            "name_vi": "Lầu 4",
+            "name_en": "Floor 4",
+            "icon": "link_icon_lau4"
+          },
+          {
+            "id": 5,
+            "name_vi": "Lầu 5",
+            "name_en": "Floor 5",
+            "icon": "link_icon_lau5"
+          }
+      
+    ],
+    "views": [
+        {
+            "id": 1,
+            "name_vi": "Vườn",
+            "name_en": "Garden",
+            "group_id": 1,
+            "thumbnail": "https://chungcu365.com/uploads/27/san-vuon-biet-thu-phai-co-tinh-thong-nhat.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/01/2023 09:00 AM"
+          },
+          {
+            "id": 2,
+            "name_vi": "Phòng ngủ",
+            "name_en": "bedroom",
+            "group_id": 1,
+            "thumbnail": "https://noithattrieugia.vn/images/image/thiet-ke-noi-that-phong-ngu-hinh-vuong-1.jpg",
+            "categories": ["co-noi-that", "ngoai-troi"],
+            "capture_time": "01/02/2023 10:30 AM"
+          },
+          {
+            "id": 3,
+            "name_vi": "Phòng tắm",
+            "name_en": "Bathroom",
+            "group_id": 1,
+            "thumbnail": "https://www.tdm.vn/thong-tin/wp-content/uploads/2021/08/nha-ve-sinh-dep-don-gian.jpg",
+            "categories": ["khong-noi-that"],
+            "capture_time": "01/01/2023 11:45 AM"
+          },
+          {
+            "id": 4,
+            "name_vi": "Phòng làm việc",
+            "name_en": "Office",
+            "group_id": 1,
+            "thumbnail": "https://noithatmanhhe.vn/media/27416/5-thiet-ke-phong-lam-viec-hien-dai.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+          {
+            "id": 5,
+            "name_vi": "Mái hiên",
+            "name_en": "Eaves",
+            "group_id": 1,
+            "thumbnail": "https://songda101.com.vn/wp-content/uploads/2021/07/mai-che-truoc-nha-bang-vat-lieu-polycarbonate-5.jpg",
+            "categories": [""],
+            "capture_time": "01/01/2023 11:45 AM"
+          },
+          {
+            "id": 6,
+            "name_vi": "Hồ bơi",
+            "name_en": "Pool",
+            "group_id": 1,
+            "thumbnail": "https://dayboiphamtuan.com/wp-content/uploads/2020/11/ho-boi-hoa-binh-anh-dai-dien-1-768x513.jpg",
+            "categories": [""],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+
+
+          {
+            "id": 7,
+            "name_vi": "Phòng khách",
+            "name_en": "Living room",
+            "group_id": 2,
+            "thumbnail": "https://sbshouse.vn/wp-content/uploads/2021/12/Thi%E1%BA%BFt-k%E1%BA%BF-nh%C3%A0-3-t%E1%BA%A7ng-1-tum-%C4%91%E1%BA%B9p-3.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/01/2023 15:00 AM"
+          },
+          {
+            "id": 8,
+            "name_vi": "Phòng ngủ 1",
+            "name_en": "Bedroom 1",
+            "group_id": 2,
+            "thumbnail": "https://noithatmanhhe.vn/media/28605/13-mau-sac-phong-ngu-luxury-dep-trang-nha.jpg",
+            "categories": ["co-noi-that", "ngoai-troi"],
+            "capture_time": "01/02/2023 10:30 AM"
+          },
+          {
+            "id": 9,
+            "name_vi": "Phòng tắm",
+            "name_en": "Bathroom",
+            "group_id": 2,
+            "thumbnail": "https://thietbiphongtamdk.com/uploads/tiny_uploads/nh%20b%C3%A0i%20vi%E1%BA%BFt/biss/thiet-ke-nha-tam-dep.jpg",
+            "categories": ["khong-noi-that"],
+            "capture_time": "01/01/2023 11:45 AM"
+          },
+          {
+            "id": 10,
+            "name_vi": "Phòng làm việc",
+            "name_en": "Office",
+            "group_id": 2,
+            "thumbnail": "https://noithatmanhhe.vn/media/20742/thiet-ke-phong-lam-viec-tai-nha-noi-that-manh-he.jpg?width=700&height=515.4296875",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+
+          {
+            "id": 11,
+            "name_vi": "Phòng thể hình",
+            "name_en": "Gym room",
+            "group_id": 2,
+            "thumbnail": "https://bizweb.dktcdn.net/100/286/754/files/lap-phong-tap-the-hinh-tai-nha.jpg?v=1531539001964",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 18:15 PM"
+          },
+
+          {
+            "id": 12,
+            "name_vi": "Phòng game",
+            "name_en": "Games room",
+            "group_id": 2,
+            "thumbnail": "https://images.fpt.shop/unsafe/filters:quality(90)/fptshop.com.vn/uploads/images/tin-tuc/144804/Originals/il_fullxfull_3445693810_m4vj.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+
+          {
+            "id": 13,
+            "name_vi": "Phòng làm việc",
+            "name_en": "Office",
+            "group_id": 3,
+            "thumbnail": "https://nhadepktv.vn/wp-content/uploads/2017/07/mau-phong-lam-viec-dep.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 22:15 PM"
+          },
+
+          {
+            "id": 14,
+            "name_vi": "Phòng game",
+            "name_en": "Games room",
+            "group_id": 3,
+            "thumbnail": "https://noithattrevietnam.com/uploaded/2021/12/1-decor-phong-ngu-gaming%20%289%29.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+
+          {
+            "id": 15,
+            "name_vi": "Phòng ngủ 1",
+            "name_en": "Bedroom 1",
+            "group_id": 3,
+            "thumbnail": "https://nhabepxinh.vn/images/Product/thiet-ke-phong-ngu-hien-dai-tai-binh-duong%203154815689.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+
+          {
+            "id": 16,
+            "name_vi": "Phòng tắm",
+            "name_en": "Bathroom",
+            "group_id": 3,
+            "thumbnail": "https://maihanspa.com/ino_upload/source/038/M%E1%BB%9AI/ph%C3%B2ng-x%C3%B4ng-h%C6%A1i-%C6%B0%E1%BB%9Bt-5.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 14:15 PM"
+          },
+
+          {
+            "id": 17,
+            "name_vi": "Phòng ngủ 2",
+            "name_en": "Bedroom 2",
+            "group_id": 3,
+            "thumbnail": "https://nhabepxinh.vn/images/Product/thiet-ke-phong-ngu-nguoi-lon-tai-emerald-celadon-city-63m2%20(3)156789456.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+
+          {
+            "id": 18,
+            "name_vi": "Phòng ngủ 1",
+            "name_en": "Bedroom 1",
+            "group_id": 4,
+            "thumbnail": "https://noithatmanhhe.vn/media/28605/13-mau-sac-phong-ngu-luxury-dep-trang-nha.jpg",
+            "categories": ["co-noi-that", "ngoai-troi"],
+            "capture_time": "01/02/2023 10:30 AM"
+          },
+          {
+            "id": 19,
+            "name_vi": "Phòng tắm",
+            "name_en": "Bathroom",
+            "group_id": 4,
+            "thumbnail": "https://thietbiphongtamdk.com/uploads/tiny_uploads/nh%20b%C3%A0i%20vi%E1%BA%BFt/biss/thiet-ke-nha-tam-dep.jpg",
+            "categories": ["khong-noi-that", "trong-nha"],
+            "capture_time": "01/01/2023 11:45 AM"
+          },
+          {
+            "id": 20,
+            "name_vi": "Phòng làm việc",
+            "name_en": "Office",
+            "group_id": 4,
+            "thumbnail": "https://noithatmanhhe.vn/media/20742/thiet-ke-phong-lam-viec-tai-nha-noi-that-manh-he.jpg?width=700&height=515.4296875",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+
+          {
+            "id": 21,
+            "name_vi": "Phòng thể hình",
+            "name_en": "Gym room",
+            "group_id": 4,
+            "thumbnail": "https://bizweb.dktcdn.net/100/286/754/files/lap-phong-tap-the-hinh-tai-nha.jpg?v=1531539001964",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 13:15 PM"
+          },
+
+          {
+            "id": 22,
+            "name_vi": "Phòng game",
+            "name_en": "Games room",
+            "group_id": 4,
+            "thumbnail": "https://images.fpt.shop/unsafe/filters:quality(90)/fptshop.com.vn/uploads/images/tin-tuc/144804/Originals/il_fullxfull_3445693810_m4vj.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+
+
+
+          {
+            "id": 23,
+            "name_vi": "Phòng làm việc",
+            "name_en": "Office",
+            "group_id": 5,
+            "thumbnail": "https://nhadepktv.vn/wp-content/uploads/2017/07/mau-phong-lam-viec-dep.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 21:15 PM"
+          },
+
+          {
+            "id": 24,
+            "name_vi": "Phòng game",
+            "name_en": "Games room",
+            "group_id": 5,
+            "thumbnail": "https://noithattrevietnam.com/uploaded/2021/12/1-decor-phong-ngu-gaming%20%289%29.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+
+          {
+            "id": 25,
+            "name_vi": "Phòng ngủ 1",
+            "name_en": "Bedroom 1",
+            "group_id": 5,
+            "thumbnail": "https://nhabepxinh.vn/images/Product/thiet-ke-phong-ngu-hien-dai-tai-binh-duong%203154815689.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          },
+
+          {
+            "id": 26,
+            "name_vi": "Phòng tắm",
+            "name_en": "Bathroom",
+            "group_id": 5,
+            "thumbnail": "https://maihanspa.com/ino_upload/source/038/M%E1%BB%9AI/ph%C3%B2ng-x%C3%B4ng-h%C6%A1i-%C6%B0%E1%BB%9Bt-5.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 20:15 PM"
+          },
+
+          {
+            "id": 27,
+            "name_vi": "Phòng ngủ 2",
+            "name_en": "Bedroom 2",
+            "group_id": 5,
+            "thumbnail": "https://nhabepxinh.vn/images/Product/thiet-ke-phong-ngu-nguoi-lon-tai-emerald-celadon-city-63m2%20(3)156789456.jpg",
+            "categories": ["co-noi-that"],
+            "capture_time": "01/03/2023 02:15 PM"
+          }
+
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name_vi": "Không phân loại",
+        "name_en": "Noclassification",
+        "categories": ""
+      },
+      {
+        "id": 2,
+        "name_vi": "Có nội thất",
+        "name_en": "Furnished",
+        "categories": "co-noi-that"
+      },
+      {
+        "id": 3,
+        "name_vi": "Không nội thất",
+        "name_en": "Unfurnished",
+        "categories": "khong-noi-that"
+      },
+      {
+        "id": 4,
+        "name_vi": "Trong nhà",
+        "name_en": "Inthehome",
+        "categories": "trong-nha"
+      },
+      {
+        "id": 5,
+        "name_vi": "Ngoài trời",
+        "name_en": "Outside",
+        "categories": "ngoai-troi"  
+      }
+     
+    ]
+  }
+      
+     
+  
