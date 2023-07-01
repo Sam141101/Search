@@ -164,7 +164,7 @@
             "name_en": "Games room",
             "group_id": 3,
             "thumbnail": "https://noithattrevietnam.com/uploaded/2021/12/1-decor-phong-ngu-gaming%20%289%29.jpg",
-            "categories": ["co-noi-that"],
+            "categories": [""],
             "capture_time": "01/03/2023 02:15 PM"
           },
 
@@ -174,7 +174,7 @@
             "name_en": "Bedroom 1",
             "group_id": 3,
             "thumbnail": "https://nhabepxinh.vn/images/Product/thiet-ke-phong-ngu-hien-dai-tai-binh-duong%203154815689.jpg",
-            "categories": ["co-noi-that"],
+            "categories": ["co-noi-that", "re-tien"],
             "capture_time": "01/03/2023 02:15 PM"
           },
 
@@ -284,7 +284,7 @@
             "name_en": "Bathroom",
             "group_id": 5,
             "thumbnail": "https://maihanspa.com/ino_upload/source/038/M%E1%BB%9AI/ph%C3%B2ng-x%C3%B4ng-h%C6%A1i-%C6%B0%E1%BB%9Bt-5.jpg",
-            "categories": ["co-noi-that"],
+            "categories": ["co-noi-that", "dat-tien"],
             "capture_time": "01/03/2023 20:15 PM"
           },
 
@@ -300,12 +300,7 @@
 
     ],
     "categories": [
-      {
-        "id": 1,
-        "name_vi": "Không phân loại",
-        "name_en": "Noclassification",
-        "categories": ""
-      },
+     
       {
         "id": 2,
         "name_vi": "Có nội thất",
@@ -329,6 +324,18 @@
         "name_vi": "Ngoài trời",
         "name_en": "Outside",
         "categories": "ngoai-troi"  
+      },
+      {
+        "id": 6,
+        "name_vi": "Đắt tiền",
+        "name_en": "Expensive",
+        "categories": "dat-tien"  
+      },
+      {
+        "id": 7,
+        "name_vi": "Rẻ tiền",
+        "name_en": "Affordable",
+        "categories": "re-tien"  
       }
      
     ]
